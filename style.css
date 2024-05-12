@@ -141,6 +141,8 @@ h1 {
 
 .contact-container {
     background-color: #222b36;
+    padding-top:15px;
+    padding-bottom: 15px;
 }
 
 .contact-page-heading {
@@ -248,7 +250,6 @@ h1 {
 
 .footer-bg-container {
     background-color: #19232d;
-    height: 100vh;
 }
 
 .footer-vr-logo {
